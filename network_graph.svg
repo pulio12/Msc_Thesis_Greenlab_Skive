@@ -36,7 +36,7 @@
 <!-- B1 (bus)&#45;&gt;Heat_Bus_Skive (bus) -->
 <g id="edge9" class="edge">
 <title>B1 (bus)&#45;&gt;Heat_Bus_Skive (bus)</title>
-<g id="a_edge9"><a xlink:title="Link: Boiler_Skive&#10;From: B1 (bus0)&#10;To: Heat_Bus_Skive (bus1)&#10;Carrier: electric boiler&#10;Extendable nominal power: False&#10;Nominal power: 10.00 MW&#10;Efficiency: 0.90&#10;Capital cost: 7075.89 currency/MW&#10;Marginal cost: 0.00 currency/MWh&#10;&#10;Optimised nominal power: 10.00 MW&#10;Power time series (p0): [0.00, 0.00, 5.56, 5.56, 5.56, ...] MW&#10;Power time series (p1): [&#45;0.00, &#45;0.00, &#45;5.00, &#45;5.00, &#45;5.00, ...] MW">
+<g id="a_edge9"><a xlink:title="Link: Boiler_Skive&#10;From: B1 (bus0)&#10;To: Heat_Bus_Skive (bus1)&#10;Carrier: electric boiler&#10;Extendable nominal power: False&#10;Nominal power: 10.00 MW&#10;Efficiency: 0.90&#10;Capital cost: 7075.89 currency/MW&#10;Marginal cost: 0.00 currency/MWh&#10;&#10;Optimised nominal power: 10.00 MW&#10;Power time series (p0): [0.00, 5.56, 5.56, 5.56, 5.56, ...] MW&#10;Power time series (p1): [&#45;0.00, &#45;5.00, &#45;5.00, &#45;5.00, &#45;5.00, ...] MW">
 <path fill="none" stroke="black" stroke-width="1.5" d="M606.52,-444.82C470.94,-420.9 145.8,-363.55 145.8,-363.55 145.8,-363.55 129.43,-251.28 122.18,-201.59"/>
 <polygon fill="black" stroke="black" stroke-width="1.5" points="120.55,-190.43 127.63,-201.52 121.4,-194.52 122.53,-202.27 122.29,-202.3 122.04,-202.34 120.91,-194.59 116.94,-203.08 120.55,-190.43"/>
 </a>
@@ -56,7 +56,7 @@
 <!-- B1 (bus)&#45;&gt;TES_Rondo (bus) -->
 <g id="edge10" class="edge">
 <title>B1 (bus)&#45;&gt;TES_Rondo (bus)</title>
-<g id="a_edge10"><a xlink:title="Link: El_to_TES_Rondo&#10;From: B1 (bus0)&#10;To: TES_Rondo (bus1)&#10;Carrier: electricity&#10;Extendable nominal power: False&#10;Nominal power: 24.00 MW&#10;Efficiency: 0.98&#10;Capital cost: 12686.61 currency/MW&#10;Marginal cost: 0.00 currency/MWh&#10;&#10;Optimised nominal power: 24.00 MW&#10;Power time series (p0): [0.00, 0.00, 12.31, 10.52, 9.13, ...] MW&#10;Power time series (p1): [&#45;0.00, &#45;0.00, &#45;12.07, &#45;10.31, &#45;8.95, ...] MW">
+<g id="a_edge10"><a xlink:title="Link: El_to_TES_Rondo&#10;From: B1 (bus0)&#10;To: TES_Rondo (bus1)&#10;Carrier: electricity&#10;Extendable nominal power: False&#10;Nominal power: 20.00 MW&#10;Efficiency: 0.98&#10;Capital cost: 12686.61 currency/MW&#10;Marginal cost: 0.00 currency/MWh&#10;&#10;Optimised nominal power: 20.00 MW&#10;Power time series (p0): [0.00, 0.00, 5.28, 12.37, 9.13, ...] MW&#10;Power time series (p1): [&#45;0.00, &#45;0.00, &#45;5.17, &#45;12.12, &#45;8.95, ...] MW">
 <path fill="none" stroke="black" stroke-width="1.5" d="M640.99,-444.83C586.76,-421.43 453.83,-364.08 390.06,-336.56"/>
 <polygon fill="black" stroke="black" stroke-width="1.5" points="379.95,-332.2 393.1,-331.99 383.88,-333.62 391.06,-336.72 390.96,-336.95 390.86,-337.18 383.68,-334.08 388.82,-341.91 379.95,-332.2"/>
 </a>
@@ -76,7 +76,7 @@
 <!-- B1 (bus)&#45;&gt;Grid_Export (bus) -->
 <g id="edge11" class="edge">
 <title>B1 (bus)&#45;&gt;Grid_Export (bus)</title>
-<g id="a_edge11"><a xlink:title="Link: Exports&#10;From: B1 (bus0)&#10;To: Grid_Export (bus1)&#10;Carrier: electricity&#10;Extendable nominal power: True&#10;Nominal power: 0.00 MW&#10;Efficiency: 0.97&#10;Capital cost: 0.00 currency/MW&#10;Marginal cost: [&#45;20.23, &#45;17.46, &#45;15.36, &#45;15.76, &#45;13.08, ...] currency/MWh&#10;&#10;Optimised nominal power: 63.81 MW&#10;Power time series (p0): [33.38, 22.30, 0.00, 0.00, 0.00, ...] MW&#10;Power time series (p1): [&#45;32.38, &#45;21.63, &#45;0.00, &#45;0.00, &#45;0.00, ...] MW">
+<g id="a_edge11"><a xlink:title="Link: Exports&#10;From: B1 (bus0)&#10;To: Grid_Export (bus1)&#10;Carrier: electricity&#10;Extendable nominal power: True&#10;Nominal power: 0.00 MW&#10;Efficiency: 0.97&#10;Capital cost: 0.00 currency/MW&#10;Marginal cost: [&#45;20.23, &#45;17.46, &#45;15.36, &#45;15.76, &#45;13.08, ...] currency/MWh&#10;&#10;Optimised nominal power: 70.44 MW&#10;Power time series (p0): [29.86, 0.00, 0.00, 0.00, 0.00, ...] MW&#10;Power time series (p1): [&#45;28.96, &#45;0.00, &#45;0.00, &#45;0.00, &#45;0.00, ...] MW">
 <path fill="none" stroke="black" stroke-width="1.5" d="M664.8,-445.05C664.8,-423.84 664.8,-374.06 664.8,-344.52"/>
 <polygon fill="black" stroke="black" stroke-width="1.5" points="664.8,-333.35 670.2,-345.35 665.05,-337.52 665.05,-345.35 664.8,-345.35 664.55,-345.35 664.55,-337.52 659.4,-345.35 664.8,-333.35"/>
 </a>
@@ -100,7 +100,7 @@
 <!-- Skive_Battery (storage unit) -->
 <g id="node13" class="node">
 <title>Skive_Battery (storage unit)</title>
-<g id="a_node13"><a xlink:title="Storage unit: Skive_Battery&#10;Bus: B1&#10;Carrier: battery storage&#10;Extendable nominal power: False&#10;Nominal power: 4.00 &#10;Power set: 0.00 &#10;Charge cyclic state: True&#10;Capital cost: 76629.43 currency/&#10;Marginal cost: 0.00 currency/h&#10;&#10;Optimised nominal power: 4.00 &#10;Power time series: [3.52, &#45;4.00, &#45;4.00, &#45;1.85, 0.00, ...] ">
+<g id="a_node13"><a xlink:title="Storage unit: Skive_Battery&#10;Bus: B1&#10;Carrier: battery storage&#10;Extendable nominal power: False&#10;Nominal power: 22.00 &#10;Power set: 0.00 &#10;Charge cyclic state: True&#10;Capital cost: 76629.43 currency/&#10;Marginal cost: 0.00 currency/h&#10;&#10;Optimised nominal power: 22.00 &#10;Power time series: [0.00, &#45;20.74, &#45;11.04, 0.00, 0.00, ...] ">
 <polygon fill="none" stroke="black" stroke-width="2" points="1213.98,-338.35 1107.11,-338.35 1079.62,-302.35 1186.49,-302.35 1213.98,-338.35"/>
 <text xml:space="preserve" text-anchor="start" x="1117.55" y="-317.62" font-family="Courier New" font-size="8.00" fill="red">Skive_Battery</text>
 </a>
@@ -130,7 +130,7 @@
 <!-- TES_Rondo (bus)&#45;&gt;Heat_Bus_Skive (bus) -->
 <g id="edge12" class="edge">
 <title>TES_Rondo (bus)&#45;&gt;Heat_Bus_Skive (bus)</title>
-<g id="a_edge12"><a xlink:title="Link: TES_Rondo_to_Heat_Bus_Skive&#10;From: TES_Rondo (bus0)&#10;To: Heat_Bus_Skive (bus1)&#10;Carrier: heat&#10;Extendable nominal power: False&#10;Nominal power: 7.00 MW&#10;Efficiency: 0.90&#10;Capital cost: 46096.51 currency/MW&#10;Marginal cost: 0.00 currency/MWh&#10;&#10;Optimised nominal power: 7.00 MW&#10;Power time series (p0): [5.56, 5.56, 0.00, 0.00, 0.00, ...] MW&#10;Power time series (p1): [&#45;5.00, &#45;5.00, &#45;0.00, &#45;0.00, &#45;0.00, ...] MW">
+<g id="a_edge12"><a xlink:title="Link: TES_Rondo_to_Heat_Bus_Skive&#10;From: TES_Rondo (bus0)&#10;To: Heat_Bus_Skive (bus1)&#10;Carrier: heat&#10;Extendable nominal power: False&#10;Nominal power: 7.00 MW&#10;Efficiency: 0.90&#10;Capital cost: 46096.51 currency/MW&#10;Marginal cost: 0.00 currency/MWh&#10;&#10;Optimised nominal power: 7.00 MW&#10;Power time series (p0): [5.56, 0.00, 0.00, 0.00, 0.00, ...] MW&#10;Power time series (p1): [&#45;5.00, &#45;0.00, &#45;0.00, &#45;0.00, &#45;0.00, ...] MW">
 <path fill="none" stroke="black" stroke-width="1.5" d="M337.83,-309.21C297.7,-285.25 196.63,-224.89 147.08,-195.29"/>
 <polygon fill="black" stroke="black" stroke-width="1.5" points="137.5,-189.57 150.58,-191.09 141.22,-191.5 147.94,-195.51 147.81,-195.72 147.68,-195.94 140.96,-191.93 145.04,-200.36 137.5,-189.57"/>
 </a>
@@ -140,7 +140,7 @@
 <!-- Rondo_Concrete_Heat_Storage (store) -->
 <g id="node11" class="node">
 <title>Rondo_Concrete_Heat_Storage (store)</title>
-<g id="a_node11"><a xlink:title="Store: Rondo_Concrete_Heat_Storage&#10;Bus: TES_Rondo&#10;Carrier: heat&#10;Extendable nominal energy: False&#10;Nominal energy: 100.00 h&#10;Power set: 0.00 &#10;Cyclic energy: True&#10;Capital cost: 0.00 currency/&#10;Marginal cost: 0.00 currency/h&#10;&#10;Optimised nominal energy: 100.00 h&#10;Energy time series: [63.32, 57.01, 68.39, 77.88, 85.89, ...] h&#10;Power time series: [5.56, 5.56, &#45;12.07, &#45;10.31, &#45;8.95, ...] ">
+<g id="a_node11"><a xlink:title="Store: Rondo_Concrete_Heat_Storage&#10;Bus: TES_Rondo&#10;Carrier: heat&#10;Extendable nominal energy: False&#10;Nominal energy: 100.00 h&#10;Power set: 0.00 &#10;Cyclic energy: True&#10;Capital cost: 0.00 currency/&#10;Marginal cost: 0.00 currency/h&#10;&#10;Optimised nominal energy: 100.00 h&#10;Energy time series: [51.84, 51.22, 55.78, 67.23, 75.37, ...] h&#10;Power time series: [5.56, 0.00, &#45;5.17, &#45;12.12, &#45;8.95, ...] ">
 <polygon fill="none" stroke="black" stroke-width="2" points="456.55,-195.4 319.05,-195.4 319.05,-159.4 456.55,-159.4 456.55,-195.4"/>
 <text xml:space="preserve" text-anchor="start" x="327.05" y="-174.67" font-family="Courier New" font-size="8.00" fill="red">Rondo_Concrete_Heat_Storage</text>
 </a>
@@ -166,7 +166,7 @@
 <!-- Grid_Import (bus)&#45;&gt;B1 (bus) -->
 <g id="edge13" class="edge">
 <title>Grid_Import (bus)&#45;&gt;B1 (bus)</title>
-<g id="a_edge13"><a xlink:title="Link: Imports&#10;From: Grid_Import (bus0)&#10;To: B1 (bus1)&#10;Carrier: electricity&#10;Extendable nominal power: True&#10;Nominal power: 0.00 MW&#10;Efficiency: 0.97&#10;Capital cost: 0.00 currency/MW&#10;Marginal cost: [29.10, 26.33, 24.23, 24.63, 21.95, ...] currency/MWh&#10;&#10;Optimised nominal power: 36.66 MW&#10;Power time series (p0): [0.00, 0.00, 0.00, 0.00, 0.00, ...] MW&#10;Power time series (p1): [&#45;0.00, &#45;0.00, &#45;0.00, &#45;0.00, &#45;0.00, ...] MW">
+<g id="a_edge13"><a xlink:title="Link: Imports&#10;From: Grid_Import (bus0)&#10;To: B1 (bus1)&#10;Carrier: electricity&#10;Extendable nominal power: True&#10;Nominal power: 0.00 MW&#10;Efficiency: 0.97&#10;Capital cost: 0.00 currency/MW&#10;Marginal cost: [29.10, 26.33, 24.23, 24.63, 21.95, ...] currency/MWh&#10;&#10;Optimised nominal power: 51.09 MW&#10;Power time series (p0): [0.00, 0.00, 0.00, 0.00, 0.00, ...] MW&#10;Power time series (p1): [&#45;0.00, &#45;0.00, &#45;0.00, &#45;0.00, &#45;0.00, ...] MW">
 <path fill="none" stroke="black" stroke-width="1.5" d="M451.34,-587.32C490.37,-563.52 588.53,-503.63 636.93,-474.1"/>
 <polygon fill="black" stroke="black" stroke-width="1.5" points="646.54,-468.24 639.11,-479.1 643.11,-470.63 636.43,-474.7 636.3,-474.49 636.17,-474.28 642.85,-470.2 633.48,-469.88 646.54,-468.24"/>
 </a>
@@ -176,7 +176,7 @@
 <!-- Grid_Store (store) -->
 <g id="node12" class="node">
 <title>Grid_Store (store)</title>
-<g id="a_node12"><a xlink:title="Store: Grid_Store&#10;Bus: Grid_Export&#10;Carrier: electricity&#10;Extendable nominal energy: True&#10;Nominal energy: 0.00 h&#10;Power set: 0.00 &#10;Cyclic energy: False&#10;Capital cost: 0.00 currency/&#10;Marginal cost: 0.00 currency/h&#10;&#10;Optimised nominal energy: 89447.53 h&#10;Energy time series: [32.38, 54.00, 54.00, 54.00, 54.00, ...] h&#10;Power time series: [&#45;32.38, &#45;21.63, 0.00, 0.00, 0.00, ...] ">
+<g id="a_node12"><a xlink:title="Store: Grid_Store&#10;Bus: Grid_Export&#10;Carrier: electricity&#10;Extendable nominal energy: True&#10;Nominal energy: 0.00 h&#10;Power set: 0.00 &#10;Cyclic energy: False&#10;Capital cost: 0.00 currency/&#10;Marginal cost: 0.00 currency/h&#10;&#10;Optimised nominal energy: 93633.37 h&#10;Energy time series: [28.96, 28.96, 28.96, 28.96, 28.96, ...] h&#10;Power time series: [&#45;28.96, 0.00, 0.00, 0.00, 0.00, ...] ">
 <polygon fill="none" stroke="black" stroke-width="2" points="715.2,-195.4 614.4,-195.4 614.4,-159.4 715.2,-159.4 715.2,-195.4"/>
 <text xml:space="preserve" text-anchor="start" x="642.3" y="-174.67" font-family="Courier New" font-size="8.00" fill="red">Grid_Store</text>
 </a>
@@ -220,7 +220,7 @@
 <!-- Grid_Generator (generator) -->
 <g id="node8" class="node">
 <title>Grid_Generator (generator)</title>
-<g id="a_node8"><a xlink:title="Generator: Grid_Generator&#10;Bus: Grid_Import&#10;Carrier: &#10;Extendable nominal power: True&#10;Nominal power: 0.00 &#10;Power set: 0.00 &#10;Efficiency: 1.00&#10;Capital cost: 0.00 currency/&#10;Marginal cost: 0.00 currency/h&#10;&#10;Optimised nominal power: 36.66 &#10;Power time series: [0.00, 0.00, 0.00, 0.00, 0.00, ...] ">
+<g id="a_node8"><a xlink:title="Generator: Grid_Generator&#10;Bus: Grid_Import&#10;Carrier: &#10;Extendable nominal power: True&#10;Nominal power: 0.00 &#10;Power set: 0.00 &#10;Efficiency: 1.00&#10;Capital cost: 0.00 currency/&#10;Marginal cost: 0.00 currency/h&#10;&#10;Optimised nominal power: 51.09 &#10;Power time series: [0.00, 0.00, 0.00, 0.00, 0.00, ...] ">
 <ellipse fill="none" stroke="black" stroke-width="2" cx="434.8" cy="-761.71" rx="40.53" ry="40.53"/>
 <text xml:space="preserve" text-anchor="start" x="403.3" y="-758.99" font-family="Courier New" font-size="8.00" fill="red">Grid_Generator</text>
 </a>
